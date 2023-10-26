@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=pedroguarderas
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedroguarderas&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
