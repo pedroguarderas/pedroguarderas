@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats :
-![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedroguarderas)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedroguarderas&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroguarderas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
