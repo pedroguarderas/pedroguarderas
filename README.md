@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" **alt="R" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" **alt="RStudio" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs" **alt="vs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
 </div>
