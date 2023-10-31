@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="40" height="40"/>
 <img src="https://github.com/Rdatatable/data.table/blob/master/.graphics/rdatatable.svg" title="data.table" **alt="data.table" width="40" height="40"/>
 <img src="https://github.com/tidyverse/dplyr/blob/main/pkgdown/favicon/apple-touch-icon-180x180.png" title="dplyr" **alt="dply" width="40" height="40"/>
+<img src="https://github.com/tidyverse/lubridate/blob/main/pkgdown/favicon/apple-touch-icon-120x120.png" title="lubridate" **alt="lubridate" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/>
 </div>
